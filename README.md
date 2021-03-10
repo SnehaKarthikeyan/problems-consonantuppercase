@@ -12,7 +12,7 @@ Output Description:
 
 Print the resultant string after capitalizing all the consonants.
 
-Hint:
+Hints:
 
 Capitalize only the consonants.
 
