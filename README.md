@@ -27,7 +27,7 @@ MaDHu aTe aN aPPLe.
 
 Explanation:
 
-After capitalizing all the consonants from the given input, the output is Mdh t n MaDHu aTe aN aPPLe.
+After capitalizing all the consonants from the given input, the output is MaDHu aTe aN aPPLe.
 
 Testcase 1:
 
